@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedantraj9&label=Profile%20views&color=0e75b6&style=flat" alt="vedantraj9" />
-</p>
+</p> 
 
 ---
 
